@@ -1,6 +1,6 @@
 #section5 {
     color: white;
-    padding: 5rem 6rem;
+    padding: 5rem 15rem;
     background: rgb(83, 167, 235);
     background: linear-gradient(0deg, rgba(83, 167, 235, .9) 5%, rgba(0, 0, 0, 0) 70%)
 }
@@ -14,4 +14,13 @@
 .titulo {
     font-size: 1.2rem;
     margin-bottom: 0;
+}
+
+@media screen and (max-width: 1080px) {
+
+
+    #section5 {
+        color: white;
+        padding: 5rem 6rem;
+    }
 }
