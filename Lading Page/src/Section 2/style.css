@@ -1,0 +1,15 @@
+#section2 h1 {
+    color: black;
+    text-align: center;
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+#section2 mark{  
+    background-color: #53A7EB ;
+    padding: 0px;
+}
+
+#section2 {
+    padding: 3rem;
+}

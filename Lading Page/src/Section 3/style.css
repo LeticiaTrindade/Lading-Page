@@ -1,0 +1,33 @@
+#section3 {
+    height: 500px;
+    padding: 5rem;
+    background-image: url('../images/background-section-12.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+#section3 h1 {
+    font-size: 2rem;
+    font-weight: 300;
+}
+
+#section3 p {
+    font-size: 1.25rem;
+    font-weight: 300;
+}
+
+#section3 p strong {
+    font-size: 1.25rem;
+    font-weight: 500;
+}
+
+@media screen and (max-width: 887px) {
+
+    #section3 h1 {
+        font-size: 1.5rem;
+        margin-bottom: 2rem;
+    }
+}
