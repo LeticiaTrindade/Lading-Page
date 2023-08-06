@@ -6,6 +6,7 @@ import Banner from './Section 1/Banner';
 import Section2 from './Section 2'
 import Section3 from './Section 3';
 import Section4 from './Section 4';
+import Section5 from './Section 5';
 import reportWebVitals from './reportWebVitals';
 
 
@@ -17,9 +18,8 @@ root.render(
     <Section2/>
     <Section3/>
     <Section4/>
-    <Section2/>
-    <Section2/>
-    <Section2/>
+    <Section5/>
+    <Nav />
     
   </React.StrictMode>
 );

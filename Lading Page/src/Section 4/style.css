@@ -15,8 +15,13 @@
     color: #53A7EB;
 }
 
+#modules{
+    display: flex;
+    flex-direction: row;
+}
+
 .modules{
-    margin: 1rem;
+    margin: 0rem 1rem;
 }
 .module {
     max-width: 300px;
@@ -31,4 +36,12 @@
     color: white;
     font-size: 1.2rem;
     box-shadow: inset -2px 6px 5px 0px rgba(0, 0, 0, 0.5);
+}
+
+@media screen and (max-width: 1080px) {
+
+    #modules{
+        display: flex;
+        flex-direction: column;
+    }
 }

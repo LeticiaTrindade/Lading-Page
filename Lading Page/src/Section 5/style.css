@@ -1,0 +1,17 @@
+#section5 {
+    color: white;
+    padding: 5rem 6rem;
+    background: rgb(83, 167, 235);
+    background: linear-gradient(0deg, rgba(83, 167, 235, .9) 5%, rgba(0, 0, 0, 0) 70%)
+}
+
+#section5 h1 {
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 4rem;
+}
+
+.titulo {
+    font-size: 1.2rem;
+    margin-bottom: 0;
+}

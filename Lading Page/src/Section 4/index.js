@@ -6,7 +6,7 @@ function Section4() {
 
       <h1>O que você pode<br /> <b>aprender</b></h1>
 
-      <div class="d-flex flex-md-row flex-sm-column">
+      <div id="modules">
 
         <div class="modules" >
 
